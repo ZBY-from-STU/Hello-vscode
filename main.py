@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# @Time    : 2021/8/15 22:45
+# @Author  : zby_stu
+# @File    : 1. 切片操作.py
+
 import datetime
 now_time = datetime.datetime.now()
 
